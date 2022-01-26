@@ -1,5 +1,10 @@
 #!/bin/bash
 
+##########################
+# RCE FIle Upload Bypass #
+# by 0bfxgh0st*          #
+##########################
+
 function _header_(){
 
 cat << EOF
